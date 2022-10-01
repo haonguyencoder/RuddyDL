@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS, NextJS, ThreeJS, NodeJS...**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, PHP,MySQL, MongoDB...**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, PHP, MySQL, MongoDB...**
 
 - 📫 How to reach me **honghao.2107@gmail.com**
 
