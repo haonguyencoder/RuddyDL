@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/zed690132" target="blank"><img src="https://img.shields.io/twitter/follow/cris?logo=twitter&style=for-the-badge" alt="cris" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, NextJS, NodeJS...**
+- 🌱 I’m currently learning **ReactJS, NextJS, ThreeJS, NodeJS...**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, PHP,MySQL, MongoDB...**
 
