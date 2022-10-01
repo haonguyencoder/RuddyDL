@@ -5,19 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/zed690132" target="blank"><img src="https://img.shields.io/twitter/follow/cris?logo=twitter&style=for-the-badge" alt="cris" /></a> </p>
 
-- 🔭 I’m currently working on 
-
 - 🌱 I’m currently learning **ReactJS, NextJS, NodeJS...**
 
-- 👨‍💻 All of my projects are available at []()
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB...**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, PHP,MySQL, MongoDB...**
 
 - 📫 How to reach me **honghao.2107@gmail.com**
 
-- 📄 Know about my experiences []()
-
-- ⚡ Fun fact **If I cannot do great things, I can do small in a great way things**
+- ⚡ If I cannot do great things, I can do small in a great way things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
